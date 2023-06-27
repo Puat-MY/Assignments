@@ -1,5 +1,5 @@
-# Assignments
-Repository to store university assignment files
+# Projects & Assignments
+Repository to store project and assignment files
 
 individual assignments are wrtitten in C++
   simple_inventory_manager.cpp shows basic implementation of C++ to create a simple app.
